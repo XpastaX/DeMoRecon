@@ -1,0 +1,19 @@
+Determine if the provided response adheres to each instruction from the given prompt. Strictly following the template below and provide your answers as 'Yes' or 'No' only. Do not add any details or explanations. Focus solely on whether the response adheres to the instructions, NOT on the accuracy or correctness of the information presented.
+
+**Prompt Provided:**
+{{  Prompt  }}
+
+**Instructions of the Prompt:**
+{{  Instruction  }}
+
+**Response Provided:**
+{{  Response  }}
+
+**Evaluation:**
+Instruction 1:['Yes' or 'No']
+Instruction 2:['Yes' or 'No']
+...
+
+Remember: Only indicate if each instruction is followed by 'Yes' or 'No'. Do not provide any additional information.
+
+**Evaluation:**

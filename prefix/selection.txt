@@ -1,0 +1,15 @@
+Provided are the original prompt, original response, new prompt, and two new responses (labeled 'A' and 'B').
+Please use the original response as a baseline for comparison, evaluate the materials and determine which response ('A' or 'B') more accurately reflects the changes instructed by the new prompt compared to the original, without considering the correctness of the responses. Your judgment should focus on the alignment and relevance to the new instructions.
+
+**Original Prompt:**
+{{  Prompt1  }}
+
+**Original Response:**
+{{  Response  }}
+
+**New Prompt:**
+{{  Prompt2  }}
+
+{{  Selection  }}
+
+**Give step by step analysis, then provide your answer ('The answer is A' or 'The answer is B').**

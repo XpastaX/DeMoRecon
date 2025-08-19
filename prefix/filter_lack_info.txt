@@ -1,0 +1,7 @@
+Please check if the prompt is missing important details that were supposed to be included, or if it is part of a multi-round conversation lacking sufficient context for a standalone response.
+If either is true, respond with 'Yes'. If not, respond with 'No'."
+
+**Given Prompt:**
+{{  Prompt  }}
+
+**Your Judgement (Yes or No):**

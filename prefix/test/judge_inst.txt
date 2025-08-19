@@ -1,0 +1,9 @@
+Evaluate whether the given response adequately addresses the given instruction.
+
+**Given Instruction:**
+{{  Instruction  }}
+
+**Given Response:**
+{{  Response  }}
+
+**Does the response generally meet the instruction? Answer with 'Yes' or 'No', then gives step by step analysis to proof your answer.:**

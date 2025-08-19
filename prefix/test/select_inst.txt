@@ -1,0 +1,18 @@
+Which following instruction is NOT addressed in the given response?
+
+**Given Response:**
+{{  Response  }}
+
+**A:**
+{{  Instruction A  }}
+
+**B:**
+{{  Instruction B  }}
+
+**C:**
+{{  Instruction C  }}
+
+**D:**
+{{  Instruction D  }}
+
+**Select the best answer (A, B, C, or D), then gives step by step analysis to proof your answer.:**

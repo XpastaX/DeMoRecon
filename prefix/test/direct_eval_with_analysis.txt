@@ -1,0 +1,11 @@
+For the provided prompt and its corresponding response below, judge whether the response attempts to address all the instructions included in the prompt.
+
+**Prompt:**
+{{  prompt  }}
+
+**Response:**
+{{  response  }}
+
+**Your Judgement (answer 'Yes' or 'No'):**
+{{  analysis  }}
+

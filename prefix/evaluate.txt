@@ -1,0 +1,15 @@
+You will receive two sets of prompts (Prompt 1 and Prompt 2) along with their responses (Response 1 and Response 2). Your task is not to evaluate the correctness of each response on its own. Instead, analyze how the modifications made from Prompt 1 to Prompt 2 are reflected in the changes from Response 1 to Response 2. Determine if the alterations in the responses align proportionally and contextually with the adjustments made in the prompts.
+
+**Prompt 1:**
+{{  Prompt 1  }}
+
+**Response 1:**
+{{  Response 1  }}
+
+**Prompt 2:**
+{{  Prompt 2  }}
+
+**Response 2:**
+{{  Response 2  }}
+
+** Your Answer (directly answer Yes or No):**

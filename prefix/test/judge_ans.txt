@@ -1,0 +1,9 @@
+Evaluate whether the given response adequately addresses all instructions of the given prompt.
+
+**Given Prompt:**
+{{  Prompt  }}
+
+**Given Response:**
+{{  Response  }}
+
+**Does the response generally meet the instructions of the prompt? {{  Method  }}:**

@@ -1,0 +1,25 @@
+Below are the given prompt and its extracted facts and instructions.
+For each instruction in the given extracted instructions perform the following steps:
+1. **Modify Instruction:** Randomly modify it to a new reasonable one with contradicting semantics or parallel requirements.
+2. **Revise Prompt:** Only revise the necessary parts of the given prompt to cover the change of instruction. Remain the other parts exactly the same as the given prompt.
+
+**Given Prompt:**
+{{  Prompt  }}
+
+{{  Extracted  }}
+
+
+Provide an example for each instruction in **Extracted Instructions**. If the modified instruction are unsuitable for an AI language model to respond to, or if the revised prompts are unreasonable or contain invalid instructions, reply 'INVALID' for the revised prompt.
+**Modified Instructions 1:**
+[Modified Instructions]
+
+**Revised Prompt 1:**
+[New Prompts]
+
+**Modified Instructions 2:**
+[Modified Instructions]
+
+**Revised Prompt 2:**
+[New Prompts]
+
+...

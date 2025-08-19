@@ -1,0 +1,18 @@
+Which following response best address the instructions of the given prompt?
+
+**Given Prompt:**
+{{  Prompt  }}
+
+**A:**
+{{  Response A  }}
+
+**B:**
+{{  Response B  }}
+
+**C:**
+{{  Response C  }}
+
+**D:**
+{{  Response D  }}
+
+**Select the best answer (A, B, C, or D), then gives step by step analysis to proof your answer.:**

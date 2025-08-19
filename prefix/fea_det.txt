@@ -1,0 +1,20 @@
+Give a prompt, your task is to:
+1. **Extract Facts:** Identify and list all the factual elements present in the input prompt.
+2. **Extract Instructions:** List all instructions in the prompt, such as specific actions, constraints, objectives, etc.
+
+**Given Prompt:**
+I have to pick up my son. Write a short SMS to my supervisor asking for leaving. In 20 words. Be polite.
+
+**Extract Facts:**
+1. The user needs to pick up their son.
+
+**Extract Instructions:**
+1. Write a short SMS.
+2. The SMS is addressed to the user's supervisor.
+3. The request is for leaving (presumably leaving work or another obligation).
+4. The message must be polite.
+5. The message should contain no more than 20 words.
+
+
+**Given Prompt:**
+{{  Prompt  }}

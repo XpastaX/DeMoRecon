@@ -1,0 +1,13 @@
+Below is an original prompt and its original response.
+Now, answer the new prompt by making changes only to the necessary parts of the original response to cover the changes of the new prompt.
+
+**Original Prompt:**
+{{  Original Prompt  }}
+
+**Original Response:**
+{{  Original Response  }}
+
+**New Prompt:**
+{{  New Prompt  }}
+
+**New Response:**
