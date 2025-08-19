@@ -20,4 +20,6 @@ This code is only for data generation and result evaluation. For training, pleas
 
 **make_new.py**: modify base elements and generate new prompt variants
 
+## Model CheckPoints:
+https://huggingface.co/Pasta009/models
 
